@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700&subset=latin-ext');
+
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-image: url('https://hdwallsource.com/img/2014/9/gradient-background-26046-26731-hd-wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Muli', sans-serif;
+}
+.contactItem {
+    padding-bottom: 25px;
+}
+img {
+    width: 10%;
+}
+a {
+    color: skyblue;
+}
+input {
+    background-color: rgba(255,255,255,0.1);
+    padding: 10px;
+    margin-top: 30px;
+    color: #fff;
+    margin-right: 6px;
+    border-radius: 10px;
+}
+button {
+    font-family: 'Muli', sans-serif;
+    border: 2px solid #fff;
+    padding: 10px;
+    background-color: skyblue;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.contactForm {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
